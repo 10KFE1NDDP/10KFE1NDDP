@@ -9,7 +9,7 @@
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <PlatformTarget>x64</PlatformTarget>
     <ApplicationIcon>Workspace\Assets\Logo.ico</ApplicationIcon>
-    <Authors>Wslt#9596</Authors>
+    <Authors>ddp_2k#8920</Authors>
     <Copyright>Copyright © 10K Swapper </Copyright>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/10KSwapperOfficial/10K-Swapper-</RepositoryUrl>
