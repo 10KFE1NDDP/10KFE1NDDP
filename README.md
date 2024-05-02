@@ -3,16 +3,16 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net7.0-windows</TargetFramework>
-    <RootNamespace>Galaxy_Swapper_v2</RootNamespace>
+    <RootNamespace>10K_Swapper</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <PlatformTarget>x64</PlatformTarget>
     <ApplicationIcon>Workspace\Assets\Logo.ico</ApplicationIcon>
     <Authors>Wslt#9596</Authors>
-    <Copyright>Copyright © Galaxy Swapper v2</Copyright>
+    <Copyright>Copyright © 10K Swapper </Copyright>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/GalaxySwapperOfficial/Galaxy-Swapper-v2</RepositoryUrl>
+    <RepositoryUrl>https://github.com/10KSwapperOfficial/10K-Swapper-</RepositoryUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
